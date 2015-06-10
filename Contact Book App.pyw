@@ -1,5 +1,3 @@
-#Student ID: 21249593
-
 import pickle #Module which stores data in a file
 import operator #Module that allows sorting
 import pygame #GUI module
